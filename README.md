@@ -11,7 +11,7 @@ We like physics and you should like physics too and i also need to fill up this 
 <table style="border: 0px dashed; width: 0px;">
   <tr>
     <th><img src="https://github.com/uhsphysicsclub/uhsphysicsclub.github.io/assets/143786902/457a0ee1-fbd7-465c-9a99-49b9ece5c631" alt="bruh" width="200"/></th>
-    <th>He likes to do physics for some reason</th>
+    <th>He likes to do physics for some reasonasdfasdfasdfasdfasdfasdfasdfasdf</th>
   </tr>
 </table>
 
