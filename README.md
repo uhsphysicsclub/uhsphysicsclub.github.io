@@ -9,8 +9,8 @@ We like physics and you should like physics too and i also need to fill up this 
 ## Co-presidents
 ### James Shi
 
-th, td {
-  border-style: dotted;
+table, th, td {
+  border: 1px solid black;
 }
 
 <table style="border: 0px dashed; width: 0px;">
