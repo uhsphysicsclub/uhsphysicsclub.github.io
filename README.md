@@ -1,4 +1,9 @@
 # uhsphysicsclub.github.io
+
+We meet biweekly in Mr. Smay's Room 707.
+
+# Mission Statement
+
 # Board Members
 ## Co-presidents
 ### James Shi
