@@ -2,7 +2,7 @@
 # Board Members
 ## Co-presidents
 ### James Shi
-![a person](https://github.com/uhsphysicsclub/uhsphysicsclub.github.io/blob/83acc9099f736a9b21ed50e22f5637e902884275/physicsclubphoto.jpg)
+<img src="https://github.com/uhsphysicsclub/uhsphysicsclub.github.io/blob/d22555ab3b63493ac13e4a71bc1b8c14f1c7e6cc/physicsclubphoto.jpg" width="50" height="100">
 He likes to do physics for some odd reason
 ### Raymond Luo
 His name is raymond luo
