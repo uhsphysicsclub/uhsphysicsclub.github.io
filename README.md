@@ -3,6 +3,7 @@
 We meet biweekly in Mr. Smay's Room 707.
 
 # Mission Statement
+We like physics and you should like physics too and i also need to fill up this webpage
 
 # Board Members
 ## Co-presidents
